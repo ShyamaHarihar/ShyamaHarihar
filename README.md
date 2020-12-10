@@ -2,7 +2,7 @@
 <h3 align="center">A CSE Undergrad at Amrita Vishwa Vidyapeetham</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamaharihar&label=Profile%20views&color=0e75b6&style=flat" alt="shyamaharihar" /> </p>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyamaharihar" alt="shyamaharihar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
