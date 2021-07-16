@@ -19,7 +19,7 @@ Hi there !! I am Shyama Harihar, prefinal year student at Amrita School of Engin
 ## TDD/Unit Testing/API testing :heavy_check_mark:
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 
-### Cloud Platforms I am familiar with :round_pushpin
+### Cloud Platforms I am familiar with :round_pushpin:
 * AWS Cloud Practitioner 
 * Microsoft Azure Fundamentals Certified (AZ900)
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
